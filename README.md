@@ -24,7 +24,7 @@ Sou um desenvolvedor em formação com foco em <strong>Java e desenvolvimento we
 - Java (POO, APIs REST, Collections)
 - Spring Boot
 - Angular com TypeScript
-- Banco de Dados (MySQL e H2)
+- Banco de Dados (PostgreSQL, MySQL e H2)
 - Git e GitHub
 
 ---
